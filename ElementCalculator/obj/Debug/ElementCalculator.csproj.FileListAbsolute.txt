@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\ElementCalculator\ElementCalculator\bin\Debug\ElementCalculator.exe.config
+C:\Users\Administrator\Desktop\ElementCalculator\ElementCalculator\bin\Debug\ElementCalculator.exe
+C:\Users\Administrator\Desktop\ElementCalculator\ElementCalculator\bin\Debug\ElementCalculator.pdb
+C:\Users\Administrator\Desktop\ElementCalculator\ElementCalculator\obj\Debug\ElementCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ElementCalculator\ElementCalculator\obj\Debug\ElementCalculator.Form1.resources
+C:\Users\Administrator\Desktop\ElementCalculator\ElementCalculator\obj\Debug\ElementCalculator.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ElementCalculator\ElementCalculator\obj\Debug\ElementCalculator.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\ElementCalculator\ElementCalculator\obj\Debug\ElementCalculator.exe
+C:\Users\Administrator\Desktop\ElementCalculator\ElementCalculator\obj\Debug\ElementCalculator.pdb
