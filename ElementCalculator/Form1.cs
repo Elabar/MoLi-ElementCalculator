@@ -24,9 +24,9 @@ namespace ElementCalculator
             int horizotal = 13;
             int vertical = 40;
 
-            Button[] singleArray = new Button[9];
+            Button[] singleArray = new Button[10];
 
-            for (int i = 0; i < 9; i++)
+            for (int i = 0; i < 10; i++)
             {
                 singleArray[i] = new Button();
                 singleArray[i].Size = new Size(60, 23);
@@ -39,9 +39,9 @@ namespace ElementCalculator
             vertical += 30;
             horizotal = 13;
 
-            Button[] threeTargetArray = new Button[9];
+            Button[] threeTargetArray = new Button[10];
 
-            for (int i = 0; i < 9; i++)
+            for (int i = 0; i < 10; i++)
             {
                 threeTargetArray[i] = new Button();
                 threeTargetArray[i].Size = new Size(60, 23);
@@ -54,9 +54,9 @@ namespace ElementCalculator
             vertical += 30;
             horizotal = 13;
 
-            Button[] AllTargetArray = new Button[9];
+            Button[] AllTargetArray = new Button[10];
 
-            for (int i = 0; i < 9; i++)
+            for (int i = 0; i < 10; i++)
             {
                 AllTargetArray[i] = new Button();
                 AllTargetArray[i].Size = new Size(60, 23);
