@@ -35,14 +35,14 @@
             // 
             // MPTextBox
             // 
-            this.MPTextBox.Location = new System.Drawing.Point(79, 54);
+            this.MPTextBox.Location = new System.Drawing.Point(80, 12);
             this.MPTextBox.Name = "MPTextBox";
             this.MPTextBox.Size = new System.Drawing.Size(100, 20);
             this.MPTextBox.TabIndex = 0;
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(185, 51);
+            this.button1.Location = new System.Drawing.Point(186, 9);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 2;
@@ -53,7 +53,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(13, 57);
+            this.label1.Location = new System.Drawing.Point(14, 15);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(63, 13);
             this.label1.TabIndex = 3;
@@ -63,7 +63,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(284, 262);
+            this.ClientSize = new System.Drawing.Size(643, 144);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.MPTextBox);
