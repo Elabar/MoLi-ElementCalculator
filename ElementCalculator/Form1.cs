@@ -63,6 +63,9 @@ namespace ElementCalculator
 
             vertical += 30;
             horizotal = 13;
+            horizotal = 13;
+            horizotal = 13;
+            horizotal = 13;
 
             Button[] AllTargetArray = new Button[10];
 
